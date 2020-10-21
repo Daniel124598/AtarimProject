@@ -1,0 +1,29 @@
+body{background-image: url(https://wallpapershome.com/images/pages/pic_h/15378.jpg);
+	background-size: cover;
+}
+
+li{list-style: none;text-align: right;letter-spacing: 2px}
+
+
+h1{
+	font-family: fantasy;
+	font-size: 4em;
+	border-bottom: initial 10px gray;
+	text-align:center;
+	box-shadow: 10px 5px 10px 5px #888888;
+    color: lightpink;
+    margin-bottom: 18rem;
+}
+footer{
+	clear: both;text-align: center; line-height: bottom;
+	margin-top: 28rem;
+}
+.maintext{
+	font-family: fantasy;
+	font-size: 2em;
+	border-bottom: initial 10px gray;
+	text-align:center;
+	box-shadow: 10px 5px 10px 5px #888888;
+    color: rgba(197,130,76,1);
+    background-color: rgba(5,5,255,0.2);
+}

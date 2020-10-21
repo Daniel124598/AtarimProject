@@ -1,0 +1,25 @@
+.container {display: flex; flex-wrap: wrap; justify-content: center;}
+body{margin: 0px 0px 0px 0px; background-image: url(https://wallpapershome.com/images/pages/pic_h/15378.jpg);}
+h1{
+	font-family: fantasy;
+	font-size: 4em;
+	border-bottom: initial 10px gray;
+	text-align:center;
+	box-shadow: 10px 5px 10px 5px #888888;
+    color: lightpink;
+
+}
+
+img{
+	width: 450px;
+	height: 300px;
+	margin: 12px;
+	transition: all 1s;
+}
+
+img:hover{
+	transform: scale(1.15);
+}
+
+footer{text-align: center;font-size: 2em}
+
